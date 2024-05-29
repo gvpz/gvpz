@@ -1,5 +1,7 @@
 ### Hi, I'm Giovanni
 
+I am very interested in Game Development and Computer Networking
+
 <!--
 **gvpz/gvpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

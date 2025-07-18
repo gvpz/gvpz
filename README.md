@@ -2,6 +2,10 @@
 
 I am very passionate about Game Development, Computer Networking, and Cybersecurity
 
+I'm a puzzle tech for [The Sanctuary Escape Games](https://thesanctuaryescape.com/)
+
+[<img width="2048" height="2048" alt="LinkedIn_icon svg" src="https://github.com/user-attachments/assets/d2ba9fba-3a2d-4169-86ba-92a9cdd5cbf6" />](www.linkedin.com/in/giovanni-pascuzzi-9b84a8310)
+
 <!--
 **gvpz/gvpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ### Hi, I'm Giovanni
 
-I am very interested in Game Development, Computer Networking, and Cybersecurity
+I am very passionate about Game Development, Computer Networking, and Cybersecurity
 
 <!--
 **gvpz/gvpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

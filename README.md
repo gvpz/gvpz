@@ -1,6 +1,6 @@
 ### Hi, I'm Giovanni
 
-I am very passionate about Game Development, Computer Networking, and Cybersecurity
+I'm very passionate about Game Development, Computer Networking, and Cybersecurity
 
 I'm a puzzle tech for [The Sanctuary Escape Games](https://thesanctuaryescape.com/)
 
